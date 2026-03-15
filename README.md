@@ -1,8 +1,11 @@
 # Tutorial 1 - _Hello World_
 
 Curso: Engenharia Informática e Multimédia
+<br>
 Estudante: Nuno Santos
+<br>
 Data: 14/03/2026
+<br>
 Link do Repositório: https://github.com/A51864-ISEL/DAM_TP1
 
 ## 1. Introdução
@@ -13,12 +16,16 @@ Neste Trabalho Prático 1, o propósito foi ganhar os conhecimentos base da ling
 ### Programas de Consola de Kotlin
 
 1 - **Exercicio 1**: Criação de arrays com os primeiros 50 quadrados perfeitos, criados de formas diferentes
+<br>
 2 - **Exercício 2**: Calculadora de consola que suporta operações aritméticas, lógicas e de _bitshift_
+<br>
 3 - **Exercício 3**: Simulação de saltos de uma bola que salta até 60% do salto anterior
+<br>
 4 - **Library Management System**: Uma implementação de um programa em Kotlin para gestão de uma biblioteca.
 
 ### Projetos de Android Studio
 1 - **HelloWorld**: Uma pequena app de android de teste feita para testar a workflow do Android Studio
+<br>
 2 - **HelloWorldOptional**: Uma app de android que mostra informações sobre o dispositivo em que é rodado
 
 ## 3. Arquitetura e Design
@@ -410,8 +417,8 @@ Date:   Sat Mar 14 20:40:11 2026 +0000
 3. - Adicionar _dark mode_ à app do HelloWorld
 
 ## 15. - Declaracao de Uso de IA (Obrigatorio)
-Em nenhum destes exercícios foi usada IA de agente nem auto-complete disponível na IDE. Ambos porque não foi pedido mas para proteger e controlar os dados enviados para servidores controlados por entidades com fins próprios e lucrativos.
+Em nenhum destes exercícios foi usada IA de agente nem auto-complete disponível na IDE. Ambos porque não foi pedido mas também para proteger e controlar os dados enviados para servidores controlados por entidades com fins próprios e lucrativos.
 
-Foram apenas usados prompts manuais com, por vezes, pequenos _snippets_ com informação relevante e sem o completo contexto do código ou do trabalho, ou com pedidos de exemplos mais concretos face às documentações consultadas, ao Google Gemini no modo Fast com o histórico de atividade desligado (https://support.google.com/gemini/answer/13594961?visit_id=639044633312039688-578266553&p=privacy_notice&rd=1#privacy_notice) ou com o Gemma3-12B a rodar em LocalLM num PC controlado por mim.
+Foram apenas usados prompts manuais com, por vezes, pequenos _snippets_ com informação relevante e sem o completo contexto do código ou do trabalho, ou com pedidos de exemplos mais concretos face às documentações consultadas. A IA usada foi o Google Gemini no modo Fast com o histórico de atividade desligado (https://support.google.com/gemini/answer/13594961?visit_id=639044633312039688-578266553&p=privacy_notice&rd=1#privacy_notice) ou com o Gemma3-12B a rodar em LocalLM num PC controlado por mim.
 
 O resto do código foi escrito consultado a documentação do Kotlin, Android Studio ou o site Stack Overflow.

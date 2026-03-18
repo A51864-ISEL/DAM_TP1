@@ -391,9 +391,8 @@ Date:   Tue Mar 10 18:36:36 2026 +0000
 
     exercício 3 completo
 ```
-
-```
 Os commits deste repositório são os seguintes:
+```
 commit 2c719e84144e2aaaf57db31c1c50d05b150b6405 (HEAD -> main, origin/main, origin/HEAD)
 Author: A15864 <A51864@alunos.isel.pt>
 Date:   Sat Mar 14 20:44:25 2026 +0000
